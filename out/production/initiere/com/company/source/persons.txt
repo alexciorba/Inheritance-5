@@ -1,0 +1,8 @@
+Marinel,Alex,22,angajat,12.24
+Catalin,ion,27,angajat,13.24
+Vlad,Alex,20,administrator,16.24,cladire B
+Ionescu,Alex,22,faculty,12.24,bio
+Popescu,Alex,26,faculty,17.24,mate
+Diaconescu,Alex,25,faculty,15.24,mate-info
+Ciorba,Alex,20,stafff,13.24,profesor
+Ana,Alexandra,28,stafff,18.24,profesor
